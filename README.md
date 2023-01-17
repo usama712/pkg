@@ -1,0 +1,1 @@
+# this is a practise package for testing console printing with different colors
