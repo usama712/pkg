@@ -14,5 +14,18 @@
   "devDependencies": {
     "typescript": "^4.9.4"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usama712/pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usama712/pkg/issues"
+  },
+  "homepage": "https://github.com/usama712/pkg#readme"
 }
